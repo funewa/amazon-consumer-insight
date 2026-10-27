@@ -1,0 +1,18 @@
+{
+  "slug": "amazon-consumer-insight",
+  "name": "亚马逊消费者洞察 · 深度需求报告",
+  "version": "1.0.1",
+  "installedAt": 1790260031579,
+  "source": "skillhub",
+  "namespace": "user_e02a09ad",
+  "canonicalName": "@user_e02a09ad/amazon-consumer-insight",
+  "iconSource": "https://skillhub-1388575217.cos.accelerate.myqcloud.com/skill-icons/uploads/620393/61cc3c7a8a3140b38a4334abca48d922.png",
+  "labels": {
+    "requires_api_key": "true"
+  },
+  "description_zh": "- 展示名：亚马逊消费者洞察 · 深度需求报告\n- 一句话简介：深度洞察报告：画像、动因、场景、机会\n- 触发名（$name）：`amazon-consumer-insight`\n- 归因渠道（UA ch/）：`consumer-insight`",
+  "description_en": "亚马逊消费者洞察 Skill：生成深度洞察报告，覆盖用户画像、购买动因、使用场景、 痛点与未满足需求、竞品替代关系与改进机会，每个结论回溯到具体评论证据， 适合做产品立项与市场汇报。Use when the user asks about consumer insights, market insights, customer research report, 消费者洞察、用户研究、市场洞察、 需求报告、深度分析、消费者研究。Requires an ARI API key (ari_live_*).",
+  "installs": 271,
+  "iconLocalPath": "C:\\Users\\Tiktok\\.workbuddy\\skills\\amazon-consumer-insight__skillhub\\_icon.png",
+  "iconDownloadedFrom": "https://skillhub-1388575217.cos.accelerate.myqcloud.com/skill-icons/uploads/620393/61cc3c7a8a3140b38a4334abca48d922.png"
+}
